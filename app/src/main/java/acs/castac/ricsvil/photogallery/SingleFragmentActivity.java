@@ -1,4 +1,4 @@
-package acs.castac.ricsvil.nerdlauncher;
+package acs.castac.ricsvil.photogallery;
 
 import android.os.Bundle;
 
